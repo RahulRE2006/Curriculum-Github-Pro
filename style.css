@@ -1,0 +1,8 @@
+
+.link-item a{
+    font-weight: bold;
+}
+
+.link-item a:hover{
+    opacity: 100%;
+}
